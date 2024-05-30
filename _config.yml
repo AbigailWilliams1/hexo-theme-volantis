@@ -809,10 +809,10 @@ plugins:
   ######## Plugins for Count:
   # npm i hexo-wordcount
   wordcount:
-    enable: #true
+    enable: true
 
   busuanzi:
-    enable: #true
+    enable: true
 
   ######## Plugins for ...
   # Button Ripple Effect
@@ -822,11 +822,11 @@ plugins:
   # fontawesome V6:  https://fontawesome.com/docs/web/style/animate
   # fontawesome animation for fontawesome V5
   fontawesome_animation:
-    enable: #true
+    enable: true
  
   # Typing Effects
   comment_typing:
-    enable: #true
+    enable: true
  
   # 视差滚动效果 Slide Background
   parallax:
@@ -862,7 +862,7 @@ plugins:
   # https://aplayer.js.org/#/zh-Hans/
   # APlayer config: https://github.com/metowolf/MetingJS
   aplayer:
-    enable: #true
+    enable: true
     source: meting # meting：从 MetingJS API 获取音乐数据（API经常不稳定） / local：本地音乐数据
     # ============= meting begin =============
     # Required
@@ -909,7 +909,7 @@ plugins:
   #   icon: fa-solid fa-moon # 可自定义
   #   toggle: darkmode
   darkmode:
-    enable: #true
+    enable: true
 
   # 旧版 Internet Explorer 淘汰行动
   # https://www.microsoft.com/zh-cn/WindowsForBusiness/End-of-IE-support
